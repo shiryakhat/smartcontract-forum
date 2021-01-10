@@ -2,7 +2,10 @@
   "name": "smartcontract-farsi",
   "about_url": null,
   "license_url": null,
-  "assets": {},
+  "assets": {
+    "Vazir-Bold": "assets/Vazir-font/Vazir-Bold.woff2",
+    "Vazir-Regular": "assets/Vazir-font/Vazir-Regular.woff2"
+  },
   "color_schemes": {
     "isabelle": {
       "primary": "00333d",

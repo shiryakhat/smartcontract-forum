@@ -10,17 +10,13 @@
 
 // font
 @font-face {
-  font-family: Vazir-Regular;
-  src: url($Vazir-Regular) format('woff2')
+  font-family: Vazir;
+  src: url($Vazir) format('woff2')
 }
 
 
-@include font('Vazir-Regular', 'assets/Vazir-font/Vazir-Regular');
-@include font('Vazir-Bold', 'assets/Vazir-font/Vazir-Bold');
-
-
 body {
-  font-family: Vazir-Regular, Vazir-Bold, arial, sans-serif;
+  font-family: Vazir, arial, sans-serif;
 }
 
 
